@@ -1,12 +1,9 @@
-# GitHub for non-coders
-Guides for non-coders getting started on GitHub.
+# Technical documentation
 
 <br />
 
-``` 
-Welcome to my technical writing portfolio. 👋	
-Here, you'll find completed docs and a peek into my strategy and thought process. 🧠  
-```
+Welcome to my technical writing portfolio. 👋	 <br> Here, you'll find completed docs and a peek into my strategy and thought process. 🧠  
+:--- | 
 
 <br />
 
