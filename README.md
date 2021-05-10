@@ -12,7 +12,7 @@ Here, you'll find completed docs and a peek into my strategy and thought process
 
 #### Contents
 - Tutorial: [Creating your profile README](#creating-your-profile-readme)
-- How-to guide: [Adding images to a README](#adding-images-to-a-readme)
+- Troubleshooting guide: [Is my thermostat working?](#is-my-thermostat-working)
 
 <br />
 
@@ -55,3 +55,31 @@ Here, you'll find completed docs and a peek into my strategy and thought process
    * Conversational... like a real human guide who's holding their hand.
    * Enthusiastic... by celebrating their successes along the way.
    * Empathetic... by showing compassion in moments of potential confusion or stress. Though the task is simple, the user may become overwhelmed by the expanse of the GitHub UI that they don't understand.
+
+<br>
+
+## Is my thermostat working
+
+✏&nbsp; [Go to the doc](/is-my-thermostat-working.md)
+
+**Document type:** Troubleshooting guide
+
+**Reader's problem:** “The room feels more hot/cold than I think it should. Does that mean the thermostat isn’t working? Or worse, my heating and cooling unit is malfunctioning?”
+
+**Goal:** Help readers quickly investigate an open-ended problem. By the end, they'll know if they can solve it themselves or if they need to contact an expert for repairs. 
+
+**Task:** Check thermostat controls to see if any of them are causing the problem.
+
+**Reader:** Renters or homeowners
+
+   * May or may not know how their thermostat and heating/cooling system actually works.
+   * May or may not feel confident doing home repairs.
+   * May or may not have set up and programmed the thermostat. 
+
+**Reader’s mindset:**
+  * Want to solve the problem fast. But they also feel confused about what’s
+causing the problem, if there even is one.
+  * Feeling a little anxious because if something is broken, it could be a problem
+in extreme weather.
+  * Are unsure if it’s a small problem they can solve on their own, or if they’ll
+need professional help.
