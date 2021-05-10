@@ -55,20 +55,3 @@ Here, you'll find completed docs and a peek into my strategy and thought process
    * Conversational... like a real human guide who's holding their hand.
    * Enthusiastic... by celebrating their successes along the way.
    * Empathetic... by showing compassion in moments of potential confusion or stress. Though the task is simple, the user may become overwhelmed by the expanse of the GitHub UI that they don't understand.
-
-<br />
-
-## Adding images to a README
-
-✏&nbsp; *Doc in progress*
-
-🧠 &nbsp; [Read my user walkthrough notes](/my-walkthrough-notes.md/#how-to-guide-adding-images-to-a-readme)
-
-**Document type:** How-to guide
-
-**Goal:** Solve a user's problem: "How do I add images?"
-
-**Task:** Adding images to a README
-
-**Reader:** Experienced users
-
