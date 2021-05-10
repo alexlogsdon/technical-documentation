@@ -63,7 +63,7 @@ Before creating a file, you need a place to store it. These storage places are c
 
 You're automatically directed to a new page. This is the "home" of the repository. Your single README file is stored here like a sheet of paper in a folder. 
 
-If you're feeling confused by all the buttons and information on this page, don't worry. You won't need them for this tutorial. Some repositories (like those for programming projects) contain many files. This page helps you manage them.
+*👉&nbsp; Note: If you're feeling confused by all the buttons and information on this page, don't worry. You won't need them for this tutorial. Some repositories (like those for programming projects) contain many files. This page helps you manage them.*
 
 <br>
 
@@ -81,9 +81,11 @@ Next, let's make sure that the README appears on your profile.
 
 1. Notice the box at the top of your profile that says `Hi there 👋.` This is your profile README. Success! 
 
+<br>
+
 Next, you'll customize it with your own message.
 
-<br />
+<br>
 
 ## Edit your README
 
@@ -103,7 +105,7 @@ Next, you'll customize it with your own message.
 
 1. Click the **Preview Changes** tab to see your formatting in action. Sections highlighted with a red bar have been deleted. They'll disappear when you save your changes.
   
-   *👉&nbsp; Do you notice that the list of ideas isn't visible in the preview? That's because the surrounding brackets `<!-- -->` turn them into invisible comments.*
+   *👉&nbsp; Note: Do you notice that the list of ideas isn't visible in the preview? That's because the surrounding brackets `<!-- -->` turn them into invisible comments.*
 
     ![Screenshot of preview changes tab](images/PreviewTab.png)
 
