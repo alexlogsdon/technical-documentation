@@ -11,7 +11,7 @@ It can be confusing to tell if a temperature problem is caused by your thermosta
 
 <br>
 
-## Check the display
+## Check the screen
 
 - If it's blank, [change the batteries](URL).
 - If there's an error message, check our list of [Common error messages](URL).
