@@ -152,7 +152,7 @@ A notification about your most recent commit is highlighted in blue.
 
     ![Screenshot of history icon](images/History.png)
 
-1. Navigate back to your profile by clicking the avatar icon in the navigation bar. Select **Your profile.** The most up-to-date README appears at the top of your profile. 
+1. Navigate back to your profile by clicking the avatar icon in the navigation bar. Select **Your profile.** The most up-to-date README appears at the top of your profile. 🎉
 
 <br>
 
