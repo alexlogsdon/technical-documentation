@@ -9,7 +9,7 @@ Welcome to my technical writing portfolio. 👋	 <br> Here, you'll find complete
 
 #### Contents
 - Tutorial: [Creating your profile README](#creating-your-profile-readme)
-- Troubleshooting guide: [Is my thermostat working?](#is-my-thermostat-working)
+- Troubleshooting guide: [Is my thermostat working?](#is-my-thermostat-working?)
 
 <br />
 
